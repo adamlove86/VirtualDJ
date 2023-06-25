@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<audioConfig current="Pioneer DJM-900NXS2">
+		<setup name="Pioneer DJM-900NXS2">
+			<audio soundcard="asio://2B206D2C-3691-440E-9C627CDFB7DCE75C (PIONEER DJM-900nexus ASIO)" leftChannel="3" rightChannel="4" source="deck 1" />
+			<audio soundcard="asio://2B206D2C-3691-440E-9C627CDFB7DCE75C (PIONEER DJM-900nexus ASIO)" leftChannel="5" rightChannel="6" source="deck 2" />
+			<audio soundcard="asio://2B206D2C-3691-440E-9C627CDFB7DCE75C (PIONEER DJM-900nexus ASIO)" leftChannel="1" rightChannel="2" source="deck 3" />
+			<audio soundcard="asio://2B206D2C-3691-440E-9C627CDFB7DCE75C (PIONEER DJM-900nexus ASIO)" leftChannel="7" rightChannel="8" source="deck 4" />
+			<audio soundcard="asio://2B206D2C-3691-440E-9C627CDFB7DCE75C (PIONEER DJM-900nexus ASIO)" leftChannel="3" rightChannel="4" source="record" />
+			<audio soundcard="asio://2B206D2C-3691-440E-9C627CDFB7DCE75C (PIONEER DJM-900nexus ASIO)" leftChannel="5" rightChannel="6" source="record" />
+			<audio soundcard="asio://2B206D2C-3691-440E-9C627CDFB7DCE75C (PIONEER DJM-900nexus ASIO)" leftChannel="1" rightChannel="2" source="record" />
+			<audio soundcard="asio://2B206D2C-3691-440E-9C627CDFB7DCE75C (PIONEER DJM-900nexus ASIO)" leftChannel="7" rightChannel="8" source="record" />
+		</setup>
+		<setup name="Pioneer CDJ-2000nexus">
+			<audio soundcard="asio://FD9BFA25-27CB-4AA9-9A0C7104787E5EF3 (Pioneer CDJXDJ ASIO)" leftChannel="1" rightChannel="2" source="deck 1" />
+		</setup>
+		<setup name="Pioneer DJM-900NXS">
+			<audio soundcard="asio://2B206D2C-3691-440E-9C627CDFB7DCE75C (PIONEER DJM-900nexus ASIO)" leftChannel="3" rightChannel="4" source="deck 1" />
+			<audio soundcard="asio://2B206D2C-3691-440E-9C627CDFB7DCE75C (PIONEER DJM-900nexus ASIO)" leftChannel="5" rightChannel="6" source="deck 2" />
+			<audio soundcard="asio://2B206D2C-3691-440E-9C627CDFB7DCE75C (PIONEER DJM-900nexus ASIO)" leftChannel="1" rightChannel="2" source="deck 3" />
+			<audio soundcard="asio://2B206D2C-3691-440E-9C627CDFB7DCE75C (PIONEER DJM-900nexus ASIO)" leftChannel="7" rightChannel="8" source="deck 4" />
+			<audio soundcard="asio://2B206D2C-3691-440E-9C627CDFB7DCE75C (PIONEER DJM-900nexus ASIO)" leftChannel="1" rightChannel="2" source="record" />
+		</setup>
+		<setup name="Pioneer DDJ-RR">
+			<audio soundcard="asio://F320B914-2D91-4DED-BDE5C3D47F9271D2 (DDJ-RR ASIO)" leftChannel="1" rightChannel="2" source="master" />
+			<audio soundcard="asio://F320B914-2D91-4DED-BDE5C3D47F9271D2 (DDJ-RR ASIO)" leftChannel="3" rightChannel="4" source="headphones" />
+			<audio soundcard="asio://F320B914-2D91-4DED-BDE5C3D47F9271D2 (DDJ-RR ASIO)" leftChannel="5" rightChannel="6" source="mic" />
+			<audio soundcard="asio://F320B914-2D91-4DED-BDE5C3D47F9271D2 (DDJ-RR ASIO)" leftChannel="5" rightChannel="6" source="booth" />
+			<audio soundcard="asio://F320B914-2D91-4DED-BDE5C3D47F9271D2 (DDJ-RR ASIO)" leftChannel="1" rightChannel="2" source="line in 1" />
+			<audio soundcard="asio://F320B914-2D91-4DED-BDE5C3D47F9271D2 (DDJ-RR ASIO)" leftChannel="3" rightChannel="4" source="line in 2" />
+		</setup>
+		<setup name="Pioneer XDJ-RX2">
+			<audio soundcard="asio://911E1771-BD3D-426A-8F5532037613F6D9 (XDJ-RX2 ASIO)" leftChannel="1" rightChannel="2" source="master" />
+			<audio soundcard="asio://911E1771-BD3D-426A-8F5532037613F6D9 (XDJ-RX2 ASIO)" leftChannel="3" rightChannel="4" source="headphones" />
+		</setup>
+		<setup name="Recording DJM-900 Nexus">
+			<audio soundcard="asio://2B206D2C-3691-440E-9C627CDFB7DCE75C (PIONEER DJM-900nexus ASIO)" leftChannel="3" rightChannel="4" source="deck 1" />
+			<audio soundcard="asio://2B206D2C-3691-440E-9C627CDFB7DCE75C (PIONEER DJM-900nexus ASIO)" leftChannel="5" rightChannel="6" source="deck 2" />
+			<audio soundcard="asio://2B206D2C-3691-440E-9C627CDFB7DCE75C (PIONEER DJM-900nexus ASIO)" leftChannel="1" rightChannel="2" source="sampler" />
+			<audio soundcard="asio://2B206D2C-3691-440E-9C627CDFB7DCE75C (PIONEER DJM-900nexus ASIO)" leftChannel="7" rightChannel="8" source="preview" />
+			<audio soundcard="asio://2B206D2C-3691-440E-9C627CDFB7DCE75C (PIONEER DJM-900nexus ASIO)" leftChannel="1" rightChannel="2" source="record" />
+		</setup>
+		<setup name="Pioneer DJM-850">
+			<audio soundcard="asio://7125D8F9-A7B1-4802-887D46FB9CD09EEB (PIONEER DJM-850 ASIO)" leftChannel="3" rightChannel="4" source="deck 1" />
+			<audio soundcard="asio://7125D8F9-A7B1-4802-887D46FB9CD09EEB (PIONEER DJM-850 ASIO)" leftChannel="5" rightChannel="6" source="deck 2" />
+			<audio soundcard="asio://7125D8F9-A7B1-4802-887D46FB9CD09EEB (PIONEER DJM-850 ASIO)" leftChannel="1" rightChannel="2" source="deck 3" />
+			<audio soundcard="asio://7125D8F9-A7B1-4802-887D46FB9CD09EEB (PIONEER DJM-850 ASIO)" leftChannel="7" rightChannel="8" source="deck 4" />
+			<audio soundcard="asio://7125D8F9-A7B1-4802-887D46FB9CD09EEB (PIONEER DJM-850 ASIO)" leftChannel="1" rightChannel="2" source="record" />
+		</setup>
+		<setup name="Pioneer DJM-900SRT">
+			<audio soundcard="asio://69522809-AD63-4FD2-81F0AD1A4A2B6DDD (PIONEER DJM-900SRT ASIO)" leftChannel="3" rightChannel="4" source="deck 1" />
+			<audio soundcard="asio://69522809-AD63-4FD2-81F0AD1A4A2B6DDD (PIONEER DJM-900SRT ASIO)" leftChannel="5" rightChannel="6" source="deck 2" />
+			<audio soundcard="asio://69522809-AD63-4FD2-81F0AD1A4A2B6DDD (PIONEER DJM-900SRT ASIO)" leftChannel="1" rightChannel="2" source="deck 3" />
+			<audio soundcard="asio://69522809-AD63-4FD2-81F0AD1A4A2B6DDD (PIONEER DJM-900SRT ASIO)" leftChannel="7" rightChannel="8" source="deck 4" />
+			<audio soundcard="asio://69522809-AD63-4FD2-81F0AD1A4A2B6DDD (PIONEER DJM-900SRT ASIO)" leftChannel="1" rightChannel="2" source="record" />
+		</setup>
+		<setup name="Pioneer CDJ-900">
+			<audio soundcard="asio://FD9BFA25-27CB-4AA9-9A0C7104787E5EF3 (Pioneer CDJXDJ ASIO)" leftChannel="1" rightChannel="2" source="deck 1" />
+		</setup>
+		<setup name="Pioneer CDJ-3000">
+			<audio soundcard="asio://FD9BFA25-27CB-4AA9-9A0C7104787E5EF3 (Pioneer CDJXDJ ASIO)" leftChannel="1" rightChannel="2" source="deck 1" />
+			<audio soundcard="asio://FD9BFA25-27CB-4AA9-9A0C7104787E5EF3 (Pioneer CDJXDJ ASIO)" leftChannel="3" rightChannel="4" source="deck 2" />
+		</setup>
+		<setup name="Pioneer CDJ-2000NXS2">
+			<audio soundcard="asio://FD9BFA25-27CB-4AA9-9A0C7104787E5EF3 (Pioneer CDJXDJ ASIO)" leftChannel="1" rightChannel="2" source="deck 1" />
+			<audio soundcard="asio://FD9BFA25-27CB-4AA9-9A0C7104787E5EF3 (Pioneer CDJXDJ ASIO)" leftChannel="3" rightChannel="4" source="deck 2" />
+		</setup>
+	</audioConfig>
+	<automation>
+		<autoBPMMatch modified="yes">smart</autoBPMMatch>
+		<autoPitchLock modified="yes">yes</autoPitchLock>
+		<autoGain>auto</autoGain>
+		<autoKey modified="yes">yes</autoKey>
+		<autoCue modified="yes">skip silence</autoCue>
+		<smartPlay modified="yes">yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes</smartPlay>
+		<smartPlayLimitPitchRange modified="yes">yes</smartPlayLimitPitchRange>
+		<smartCue modified="yes">yes</smartCue>
+		<smartLoop modified="yes">yes</smartLoop>
+		<quantizeLoop modified="yes">yes</quantizeLoop>
+		<quantizeSetCue modified="yes">yes</quantizeSetCue>
+		<globalQuantize modified="yes">1/2 beat</globalQuantize>
+		<smartScratch>no</smartScratch>
+		<cueLoopAutoSync>yes</cueLoopAutoSync>
+		<resetPitchOnLoad>no</resetPitchOnLoad>
+		<resetEqOnLoad>no</resetEqOnLoad>
+		<resetStemsOnLoad modified="yes">All</resetStemsOnLoad>
+		<resetFXOnLoad>no</resetFXOnLoad>
+		<resetKeyOnLoad>yes</resetKeyOnLoad>
+		<autoHeadphones>always</autoHeadphones>
+		<pflOnSelect>yes</pflOnSelect>
+	</automation>
+	<controls>
+		<playMode>play-pause</playMode>
+		<cueMode>cue</cueMode>
+		<hotcueMode>play</hotcueMode>
+		<updateHotCueOnCueCombo>yes</updateHotCueOnCueCombo>
+		<loopBackMode modified="yes">no</loopBackMode>
+		<loopAutoMove modified="yes">no</loopAutoMove>
+		<loopDefault modified="yes">16.0, 16.0, 32.0, 8.0</loopDefault>
+		<loopRollDefault modified="yes">0.250, 32.0</loopRollDefault>
+		<beatjump>1.0</beatjump>
+		<keepPlayingPastEnd modified="yes">yes</keepPlayingPastEnd>
+		<keepPlayStatusOnLoadSong>no</keepPlayStatusOnLoadSong>
+		<eqMode modified="yes">EZRemix</eqMode>
+		<eqModeDual modified="yes">Outer</eqModeDual>
+		<stemsBleedMuteVocal>0.80</stemsBleedMuteVocal>
+		<stemsBleedMuteInstru>0.30</stemsBleedMuteInstru>
+		<stemsBleedOnlyVocal>0.0</stemsBleedOnlyVocal>
+		<stemsBleedOnlyInstru modified="yes">0.003333</stemsBleedOnlyInstru>
+		<vinylMode modified="yes">no, no</vinylMode>
+		<masterTempo modified="yes">yes</masterTempo>
+		<pitchRange modified="yes">39.0</pitchRange>
+		<autoPitchRange>yes</autoPitchRange>
+		<pitchResetSpeed modified="yes">15.0</pitchResetSpeed>
+		<faderStart>no</faderStart>
+		<faderStartStop>no</faderStartStop>
+		<crossfaderCurve modified="yes">Smooth</crossfaderCurve>
+		<crossfaderDisable modified="yes">yes</crossfaderDisable>
+		<crossfaderCustom />
+		<crossfaderHamster>no</crossfaderHamster>
+		<levelfaderHamster>no</levelfaderHamster>
+		<effects>Delay,Reverb,Wahwah|Delay,Reverb,Wahwah|Delay|Delay</effects>
+		<internalPluginLocations />
+		<masterEffects>Delay, , , , , , , Delay</masterEffects>
+		<mixFx>Echo</mixFx>
+		<pluginBanks>Echo,Flanger,Reverb|Cut,Distortion,Wahwah</pluginBanks>
+		<padsPagesOrder />
+		<padsPagesHidden />
+		<sixteenPadsMode>Auto</sixteenPadsMode>
+		<padsPagesChanged modified="yes">set deck1-page1=beatjump, deck2-page1=beatjump, deck1-page4=stems, deck2-page4=stems, XDJRX2-page3=stems, deck1-page3=saved loops, deck2-page3=hotcues, deck2-page2=custom, deck1-page2=custom, deck1-page1=beatjump, DDJRR-page0=custom, KEYBOARD-page0=custom, KEYBOARD-page3=beatjump, DDJRR-page2=beatjump, DDJRR-page4=stems, DDJRR-page3=custom</padsPagesChanged>
+		<padsSkinIndependent>no</padsSkinIndependent>
+		<loopPadPage modified="yes">1, 0</loopPadPage>
+		<autoSortCues modified="yes">no</autoSortCues>
+		<stemsSplitLeftRight>no</stemsSplitLeftRight>
+	</controls>
+	<skins>
+		<skinWaveformType modified="yes">colors</skinWaveformType>
+		<skinOverviewType modified="yes">auto</skinOverviewType>
+		<skinWaveformScratchType modified="yes">colors</skinWaveformScratchType>
+		<coloredWaveforms modified="yes">neutral</coloredWaveforms>
+		<waveUseFrequency>no</waveUseFrequency>
+		<waveGrayOnKill>yes</waveGrayOnKill>
+		<waveformCenter modified="yes">0.1560</waveformCenter>
+		<skinPlayheadShadow>yes</skinPlayheadShadow>
+		<showGridLines modified="yes">yes</showGridLines>
+		<beatCounterRange>16</beatCounterRange>
+		<rhythmZoom modified="yes">0.252769</rhythmZoom>
+		<scratchZoomVertical modified="yes">0.1250</scratchZoomVertical>
+		<rhythmZoomSaved>0.250</rhythmZoomSaved>
+		<scratchZoomSaved>0.250</scratchZoomSaved>
+		<touchScreenMode>no</touchScreenMode>
+		<multiTouchTwoFingerScroll>no</multiTouchTwoFingerScroll>
+		<onScreenKeyboard>Auto</onScreenKeyboard>
+		<keyboardShowKeymapOverlay>yes</keyboardShowKeymapOverlay>
+		<keyboardKeymapOverlayOnStickyKeys>yes</keyboardKeymapOverlayOnStickyKeys>
+		<skinEmptyButtons>no</skinEmptyButtons>
+		<customButtons>, , Acapella=stem_pad Acapella, Instrumental=stem_pad Instrumental, =, , Quantize All=quantize_all toggle</customButtons>
+		<skin3FxLayout modified="yes">no</skin3FxLayout>
+		<skin6FxLayout>no</skin6FxLayout>
+		<vuMeter>Power</vuMeter>
+		<clockDisplay>12h</clockDisplay>
+		<cueDisplay modified="yes">position</cueDisplay>
+		<savedLoopDisplay>name</savedLoopDisplay>
+		<displayTime modified="yes">left,spent,spent,spent</displayTime>
+		<keyDisplay modified="yes">Harmonic</keyDisplay>
+		<cpuMeter modified="yes">system</cpuMeter>
+		<hideSongInfo>no</hideSongInfo>
+		<tooltip>yes</tooltip>
+		<tooltipDelay>500</tooltipDelay>
+		<showCoverForDragDrop>yes</showCoverForDragDrop>
+		<RPM>33 RPM</RPM>
+		<dialogsColorTheme>automatic</dialogsColorTheme>
+		<cleartype>yes</cleartype>
+		<maximized modified="yes">1</maximized>
+		<skin modified="yes">Default:Performance</skin>
+		<skinLoaded>Old=2 Decks, Default=Performance, Virtually Pioneer=XDJ, Default/=Pro, Controller 2020 by DennYo=Skin, Controller 2020 by DennYo/=Skin, Vanced GT=MAIN</skinLoaded>
+		<skinPosition />
+		<skinWindows>
+			<window name="_mainwindow">
+				<idx0 x="0" y="0" width="3200" height="1904" />
+			</window>
+			<window name="Controller 2020 by DennYo:Skin">
+				<idx9 visible="no" />
+			</window>
+		</skinWindows>
+		<skinPanels>!@fxknobs_deck1_compact, !@padparams_deck1_compact, @padfavorite_deck1_compact, !@hotcues_2row_deck1_compact, @loopadjust_deck1_compact, !@loopdefault_deck1_compact, !@savedloops_deck1_compact, !!@looprec_deck1_compact, !@customs_deck1_compact, !!@timecode_deck1_compact, !!@fxsingle_deck1, !!@fxsliders_deck1, !!@fxknobs_deck1, !!@fx6slots_deck1, @pads16_deck1, !!@fxsingle_deck2, !!@fxsliders_deck2, !!@fxknobs_deck2, !!@fx6slots_deck2, @pads16_deck2, !!@hotcues_deck1, !@custom_deck1, !!@hotcues_deck12, @savedloops_top_deck1, !!@timecode_deck1, @hotcues_deck2, !@custom_deck2, !!@hotcues_deck22, !!@savedloops_top_deck2, !!@timecode_deck2, @loopadjust_deck2_compact, !@loopdefault_deck2_compact, !@savedloops_deck2_compact, !!@looprec_deck2_compact, !@customs_deck2_compact, !!@timecode_deck2_compact, !@fxknobs_deck2_compact, !@padparams_deck2_compact, @padfavorite_deck2_compact, !@hotcues_2row_deck2_compact, !!@loopadjust_deck1, @loopdefault_deck1, !@savedloops_deck1, !!@looprec_deck1, !!@loopbuttons_deck1, @padfavorite_deck1, !@padparams_deck1, @padfavorite_deck2, !@padparams_deck2, @padfavorite_leftdeck, !!@padparams_leftdeck, @padfavorite_rightdeck, !@padparams_rightdeck, @hotcues_2row_deck1, !!@loopadjust_deck2, !@savedloops_deck2, @loopdefault_deck2, !!@looprec_deck2, !!@loopbuttons_deck2, !@customs_custom_deck1, @savedloops_savedloops_top_deck1, !@timecode_tc_deck1, @savedloops_savedloops_top_deck2, !@customs_custom_deck2, !!@timecode_tc1_deck2, @hotcues_2row_deck2, adjustbpm_area_deck1, adjustbpm_area_deck2, browser, !leftdeck1, rightdeck2, !hotcues_1_deck2, !rightdeck4, leftdeck3</skinPanels>
+		<skinTextzones />
+		<skinSplitState>cover=0.145872, sideview=0.689454, folders=0.166255, info=0.923652, effects=(1.0), ads=(0.903257), cover2=0.150, sideview2=0.650, folders2=0.180, info2=0.860, effects2=(1.0), ads2=(0.904245), sideview3=0.650, folders3=0.180, info3=0.860, effects3=(1.0), ads3=(0.904245), sideview4=0.650, folders4=0.180, info4=0.860, effects4=(1.0), ads4=(0.904428), crossfader=0.50, crossfader2=0.50, sidelist=0.485289, sidelist2=0.566382, sidelist3=(0.70), sidelist4=(0.70)</skinSplitState>
+		<skinRacks />
+		<dateFormat>yyyy/mm/dd</dateFormat>
+	</skins>
+	<audio>
+		<audioAutoDetect>yes</audioAutoDetect>
+		<exclusiveAudioAccess>no</exclusiveAudioAccess>
+		<splitHeadphones>no</splitHeadphones>
+		<equalizerInHeadphones>yes</equalizerInHeadphones>
+		<headphonesGain>0.50</headphonesGain>
+		<prelistenOutput modified="yes">0</prelistenOutput>
+		<boothMicrophone modified="yes">yes</boothMicrophone>
+		<metronomeVolume>2.0</metronomeVolume>
+		<gainSliderIncludesAutoGain modified="yes">yes</gainSliderIncludesAutoGain>
+		<faderCurve modified="yes">0.50</faderCurve>
+		<zeroDB>Default</zeroDB>
+		<rampStartTime>0.0</rampStartTime>
+		<rampStopTime>0.0</rampStopTime>
+		<rampScratchTime modified="yes">0.0</rampScratchTime>
+		<equalizerFrequencySpread>Default</equalizerFrequencySpread>
+		<equalizerLowFrequency>200</equalizerLowFrequency>
+		<equalizerMidFrequency>1700</equalizerMidFrequency>
+		<equalizerHighFrequency>6500</equalizerHighFrequency>
+		<filterDefaultResonance>Default</filterDefaultResonance>
+		<fxProcessing>Pre-fader</fxProcessing>
+	</audio>
+	<video>
+		<useVideoSkin modified="yes">no</useVideoSkin>
+		<videoSkin>for Live:live</videoSkin>
+		<showVideoSkinOnPreview>yes</showVideoSkinOnPreview>
+		<videoLogo>yes</videoLogo>
+		<videoLogoImage />
+		<videoLogoSize>Medium</videoLogoSize>
+		<videoLogoPosition>Right-Top</videoLogoPosition>
+		<videoCrossfader>Smart</videoCrossfader>
+		<videoVolumeLink>no</videoVolumeLink>
+		<videoTransition modified="yes">Satellite</videoTransition>
+		<videoRandomTransition>no</videoRandomTransition>
+		<videoFx modified="yes">Boom</videoFx>
+		<videoAudioOnlyVisualisation>Shader</videoAudioOnlyVisualisation>
+		<letterBoxing>bars</letterBoxing>
+		<videoFPS>30</videoFPS>
+		<videoMicroFrames>Smart</videoMicroFrames>
+		<videoResampleQuality>Medium</videoResampleQuality>
+		<videoShaderQuality>Auto</videoShaderQuality>
+		<videoUseDXVA>yes</videoUseDXVA>
+		<videoDriver>AMD Radeon(TM) Graphics</videoDriver>
+		<videoMaxMemory>495</videoMaxMemory>
+		<videoForceFullscreen>0</videoForceFullscreen>
+		<videoDelay>0.0</videoDelay>
+		<videoWindowAlwaysOnTop>yes</videoWindowAlwaysOnTop>
+		<videoWindowPosition>(0x0 3200x1930)=663x1269 640x360, (0x0 3200x1904)=826x759 640x360</videoWindowPosition>
+		<videoCreateLinkOnDrop>yes</videoCreateLinkOnDrop>
+		<startVideoOnLoad>yes</startVideoOnLoad>
+	</video>
+	<karaoke>
+		<karaokeBackground>Default</karaokeBackground>
+		<karaokeBackgroundMusic>automix</karaokeBackgroundMusic>
+		<karaokeBackgroundImage />
+		<karaokeBackgroundVolume>0.750</karaokeBackgroundVolume>
+		<karaokeVideoSkin>for Karaoke:karaoke</karaokeVideoSkin>
+		<karaokeSkipSilence>yes</karaokeSkipSilence>
+		<karaokeAutoRemovePlayed>yes</karaokeAutoRemovePlayed>
+		<karaokeDualDeck>no</karaokeDualDeck>
+	</karaoke>
+	<controllers>
+		<mixerOrder>3124</mixerOrder>
+		<controllerTakeoverMode modified="yes">Pickup</controllerTakeoverMode>
+		<controllerTakeoverModePitch modified="yes">Pickup</controllerTakeoverModePitch>
+		<touchWheelBackspin>yes</touchWheelBackspin>
+		<touchWheelForwardspin>no</touchWheelForwardspin>
+		<touchWheelSpinThreshold>0.80</touchWheelSpinThreshold>
+		<jogSensitivityScratch>1.0</jogSensitivityScratch>
+		<jogSensitivityCue>0.50</jogSensitivityCue>
+		<jogSensitivityBend>0.050</jogSensitivityBend>
+		<jogVibrationProtection>0</jogVibrationProtection>
+		<motorWheelInstantPlay>yes</motorWheelInstantPlay>
+		<motorWheelInstantStop>yes</motorWheelInstantStop>
+		<motorWheelSmoothPercent>75.0</motorWheelSmoothPercent>
+		<motorWheelLockTime>1.0</motorWheelLockTime>
+		<controllerRefreshRate>0</controllerRefreshRate>
+		<controllerWaveFormZoom>3</controllerWaveFormZoom>
+		<disableBuiltInDefinitions>no</disableBuiltInDefinitions>
+		<createMidiLog modified="yes">yes</createMidiLog>
+		<midiLogLevel>Default</midiLogLevel>
+		<controllersCustomization>
+			<controller name="KEYBOARD" mapper="KEYBOARD - Custom Mapping (Adam Keyboard Mapping)" />
+			<controller name="CDJ2000NEXUS" mapper="Pioneer CDJ-2000nexus - Custom Mapping (This One CDJ-2000nexus)" deck="2" />
+			<controller name="CDJ2000NEXUS" mapper="Pioneer CDJ-2000nexus - Custom Mapping (This One CDJ-2000nexus)" deck="2" />
+			<controller name="XDJRX2" mapper="Pioneer XDJ-RX2 - Custom Mapping (This One)" />
+			<controller name="CDJ2000NXS2" mapper="Pioneer CDJ-2000NXS2 - Custom Mapping (This One CDJ-2000NXS2)" deck="1" />
+			<controller name="CDJ3000" mapper="Pioneer CDJ-3000 - Custom Mapping (This One)" deck="right" />
+			<controller name="DDJRR" mapper="Pioneer DDJ-RR - Custom Mapping" />
+			<controller name="CDJ2000" mapper="Pioneer CDJ-2000 - Custom Mapping This One (2000s)" deck="1" />
+			<controller name="CDJ2000NXS2" mapper="Pioneer CDJ-2000NXS2 - Custom Mapping (This One CDJ-2000NXS2)" deck="1" />
+			<controller name="DJM900NXS2" />
+			<controller name="DJM900NXS2" />
+			<controller name="CDJ900" mapper="Pioneer CDJ-900 - Custom Mapping This One (900s)" deck="2" />
+			<controller name="CDJ900" mapper="Pioneer CDJ-900 - Custom Mapping This One (900s)" deck="1" />
+			<controller name="CDJ3000" mapper="Pioneer CDJ-3000 - Custom Mapping (This One)" deck="2" />
+			<controller name="CDJ2000" mapper="Pioneer CDJ-2000 - Custom Mapping This One (2000s)" deck="2" />
+			<controller name="DJM900NXS" />
+		</controllersCustomization>
+		<djcButtons />
+		<controllerState />
+		<controllerMenu />
+		<XDJRX2-NeedleLock>yes</XDJRX2-NeedleLock>
+		<XDJRX2-BrowserAutoSwitch>yes</XDJRX2-BrowserAutoSwitch>
+		<XDJRX2-MixerMode>MIDI</XDJRX2-MixerMode>
+		<CDJ3000-NeedleLock>no</CDJ3000-NeedleLock>
+		<CDJ3000-jogOnAirDisplay>yes</CDJ3000-jogOnAirDisplay>
+		<CDJ3000-screenAutoScratchView>yes</CDJ3000-screenAutoScratchView>
+		<CDJ2000NXS2-jogOnAirDisplay>yes</CDJ2000NXS2-jogOnAirDisplay>
+		<CDJ2000NXS2-screenAutoScratchView>yes</CDJ2000NXS2-screenAutoScratchView>
+		<CDJ2000NXS2-needleLock>no</CDJ2000NXS2-needleLock>
+		<CDJ2000NXS2-browserShowBPM>yes</CDJ2000NXS2-browserShowBPM>
+		<DJM900NXS2-jogOnAirDisplay>yes</DJM900NXS2-jogOnAirDisplay>
+		<DJM900NXS2-screenAutoScratchView>yes</DJM900NXS2-screenAutoScratchView>
+		<DJM900NXS2-needleLock>no</DJM900NXS2-needleLock>
+		<DJM900NXS2-browserShowBPM>yes</DJM900NXS2-browserShowBPM>
+	</controllers>
+	<timecode>
+		<timecodeMode>smart</timecodeMode>
+		<timecodeType>AutoDetect</timecodeType>
+		<timecodeLeadInTime>0.0</timecodeLeadInTime>
+		<timecodeAntiSkip>3</timecodeAntiSkip>
+		<timecodeNeedleDropSync>yes</timecodeNeedleDropSync>
+		<timecodePitchSliderIgnoreBend>yes</timecodePitchSliderIgnoreBend>
+		<timecodeSilence>0.20</timecodeSilence>
+		<timecodeCalibrationVolume>1.0</timecodeCalibrationVolume>
+		<timecodeCalibrationPhase>0.0</timecodeCalibrationPhase>
+	</timecode>
+	<sampler>
+		<samplerBank>AUDIO FX</samplerBank>
+		<samplerTriggerMode>on/off</samplerTriggerMode>
+		<samplerDefaultLoopMode>locked</samplerDefaultLoopMode>
+		<samplerForceNbColumns>0</samplerForceNbColumns>
+		<samplerExportLossless>no</samplerExportLossless>
+		<samplerDontSaveSource>no</samplerDontSaveSource>
+		<samplerOutputToTriggerDeck>no</samplerOutputToTriggerDeck>
+		<samplerRootFolder />
+		<samplerOutputDeck>0</samplerOutputDeck>
+		<samplerApplyEffectsOnDeckOutput>no</samplerApplyEffectsOnDeckOutput>
+		<samplerVideoVolumeLink>yes</samplerVideoVolumeLink>
+		<autoSideview>yes</autoSideview>
+		<samplerImageSize>small</samplerImageSize>
+		<samplerHeadphones modified="yes">no</samplerHeadphones>
+		<samplerShowEffects>no</samplerShowEffects>
+	</sampler>
+	<browser>
+		<fileFormats>mp3,wav,cda,wma,asf,ogg,m4a,aac,aif,aiff,flac,mpc,ape,weba,opus,vdj,vdjcache,vdjedit,vdjsample,mp4,ogm,ogv,avi,mpg,mpeg,wmv,vob,mov,divx,m4v,mkv,flv,webm,vdjcachev,apng</fileFormats>
+		<rootFoldersLocation>LocalMusic=root, OnlineMusic=root, Lists=root, Filters=root, Stems=root, CDJExport=root, MyMusic=LocalMusic, MyVideos=hidden, MyComputer=LocalMusic, Desktop=LocalMusic, Crates=LocalMusic, iTunes=LocalMusic, Traktor=hidden, RekordBox=hidden, IDJPool=OnlineMusic, VJPro=hidden, Digitrax=hidden, Deezer=hidden, Tidal=OnlineMusic, Xiami=OnlineMusic, SoundCloud=OnlineMusic, Beatport=hidden, Beatsource=hidden, Playlists=Lists, History=Lists, Cloud=Lists, GeniusDJ=Lists, AskTheDJ=Lists, Sampler=Lists, SpotifyPlaylists=Lists, Charts=Lists</rootFoldersLocation>
+		<iTunesDatabaseFile modified="yes">D:\iTunes\iTunes Library.xml</iTunesDatabaseFile>
+		<seratoFolder>D:\\_Serato_</seratoFolder>
+		<traktorFolder modified="yes">D:\Traktor</traktorFolder>
+		<importV7Databases>yes</importV7Databases>
+		<ignoreDrives modified="yes">CMUZ</ignoreDrives>
+		<readOnly>no</readOnly>
+		<searchInFolder>yes</searchInFolder>
+		<searchInDB>yes</searchInDB>
+		<searchInContentUnlimited>yes</searchInContentUnlimited>
+		<searchInOnlineCatalogs modified="yes">yes</searchInOnlineCatalogs>
+		<ContentUnlimitedWhenEmpty>yes</ContentUnlimitedWhenEmpty>
+		<OnlineCatalogsWhenEmpty>yes</OnlineCatalogsWhenEmpty>
+		<ContentUnlimitedCatalogs />
+		<OnlineCatalogs modified="yes">TIDAL, Soundcloud</OnlineCatalogs>
+		<onlineCatalogsContentPreference>All</onlineCatalogsContentPreference>
+		<showMusic modified="yes">yes</showMusic>
+		<showVideo modified="yes">no</showVideo>
+		<showKaraoke modified="yes">no</showKaraoke>
+		<searchFields modified="yes">24607</searchFields>
+		<browserColumns>file=ord(3.14),play(3.74),dkey(4.34),key(3.54),tirm(35.44),arti(23.23),star(7.56),bpm(3.28),leng(4.43),Xply(3.3),1see(5.42),bitr(2.58)|side=ord(5.16),play(6.16),tirm(40.22),arti(21.77),bpm(7.33),star(7.87),1see(6.3),bitr(5.18)|file(play)=play(2.61),key(2.47),tirm(37.59),arti(26.93),star(6.54),bpm(6.04),leng(6.28),1see(11.54)|side(auto)=tirm(30.61),arti(23.61),leng(6.49),bpm(14.29),key(14.29),plat(10.71)|side(kara)=lpos(10),titl(35),arti(35),sing(20)|file(ask)=msg(60),from(20),askd(20)|side(rmix)=mix(100)|file(hist)=ord(3),titl(35.39),arti(22.98),star(6.13),bpm(3.62),play(11.11),plti(7.47),Xply(10.3)|file(virt)=play(3.09),tirm(34.78),arti(23.26),star(7.18),leng(4.79),bpm(4.15),key(3.46),1see(9.3),Xply(10)|side(virt)=titl(50),arti(50)|side(hist)=titl(30),arti(30),mix(20),plti(20)|file(sbnk)=spla(4),spos(4),titl(40),sgrp(20),svol(16),slen(12),sedi(4)|file(samp)=spla(4),spos(4),titl(88),sedi(4)|side(play)=titl(40),arti(40),mix(20)</browserColumns>
+		<browserSort>file=-First Seen|file(ask)=Original Sort Order|file(sear)=-First Seen|file(play)=-Play Count|file(hist)=Order|file(sbnk)=Original Sort Order|file(samp)=Original Sort Order|side=-Play Count|file(virt)=-First Seen</browserSort>
+		<browserGridColumns />
+		<infoviewColumns>titl,arti,year,bpm,key,leng,Xply,play,comm,path,file,bitr,size,ext,date,1see,inpl,tirm,usr1,usr2</infoviewColumns>
+		<showHorizontalSideList modified="yes">yes</showHorizontalSideList>
+		<lockFolderOrder modified="yes">no</lockFolderOrder>
+		<keepSortOrder>yes</keepSortOrder>
+		<rememberRecurse modified="yes">yes</rememberRecurse>
+		<browserSearchByFirstLetter modified="yes">yes</browserSearchByFirstLetter>
+		<lastSelectedFolder modified="yes">D:\VirtualDJ\History</lastSelectedFolder>
+		<coverFlow>no</coverFlow>
+		<lastTrackListDate modified="yes">2023/06/24</lastTrackListDate>
+		<historyDelay modified="yes">45</historyDelay>
+		<writeHistory>yes</writeHistory>
+		<prelistenVisible>yes</prelistenVisible>
+		<prelistenStopOnChange>no</prelistenStopOnChange>
+		<prelistenStartPos modified="yes">0.438425</prelistenStartPos>
+		<autoSearchDB modified="yes">no</autoSearchDB>
+		<showZipKaraoke>yes</showZipKaraoke>
+		<showM3UAsFolders>yes</showM3UAsFolders>
+		<fontSize modified="yes">1.0</fontSize>
+		<browserPadding modified="yes">None</browserPadding>
+		<browserBPMDigits>1</browserBPMDigits>
+		<savePlaylist>yes</savePlaylist>
+		<saveUnplayedToSidelist modified="yes">no</saveUnplayedToSidelist>
+		<removePlayedFromSidelist modified="yes">yes</removePlayedFromSidelist>
+		<browserTextFit>smart</browserTextFit>
+		<tracklistFormat>%author - %title</tracklistFormat>
+		<shellIcons modified="yes">yes</shellIcons>
+		<sideviewShortcuts>filters://Compatible songs.vdjfolder, geniusdj://livefeedback</sideviewShortcuts>
+		<sideViewShortcutsHidden>karaoke, sampler, automix, sidelist</sideViewShortcutsHidden>
+		<sideView modified="yes">remixes</sideView>
+		<gridView>no</gridView>
+		<triggerPadView>yes</triggerPadView>
+		<sideViewReco modified="yes">similar</sideViewReco>
+		<RemixesViewProvider modified="yes">Local</RemixesViewProvider>
+		<liveFeedbackProviders modified="yes">live, Local</liveFeedbackProviders>
+		<logUnsuccessfulSearches>no</logUnsuccessfulSearches>
+		<shazam />
+		<filterFolderSplitGenreBySlash>yes</filterFolderSplitGenreBySlash>
+		<browserAutoZoom modified="yes">no</browserAutoZoom>
+		<browserFontSizeButtons>no</browserFontSizeButtons>
+		<browserDaysSongsAreNew modified="yes">14</browserDaysSongsAreNew>
+		<browserAutoOpenNewDrive>yes</browserAutoOpenNewDrive>
+		<cdjExportStemsConfig>Acapella=vocals, Instrumental=instru+bass+kick+hihat, Melody=instru+bass, Beat=kick+hihat</cdjExportStemsConfig>
+		<cdjExportStems />
+		<cdjExportCompatibility>CDJ2000</cdjExportCompatibility>
+		<cdjExportShowAllDrives modified="yes">yes</cdjExportShowAllDrives>
+		<cdjExportAutoSyncCues>Full</cdjExportAutoSyncCues>
+		<cdjExportCuesAsMemoryPoints modified="yes">yes</cdjExportCuesAsMemoryPoints>
+		<quickFilters modified="yes">Key Range=&quot;Key Difference &lt;= 1&quot;, BPM Range=&quot;Bpm Difference &lt;= 10%&quot;, 3+=&quot;Rating &gt;= 3&quot;, 4+=&quot;Rating &gt;= 4&quot;, 5=&quot;Rating &gt;= 4.5&quot;, BPM=list BPM range 20, Year=list Year range 2, Situation=list User 1, Content=list User 2, Stems=list Prepared Stems, Last Played &gt;2=&quot;Days since Last Play &gt;= 2&quot;, AIFF 26/1=File Type is AIFF and First Seen &gt; &quot;2023/01/26 00:00&quot; and First Seen &lt; &quot;2023/01/26 23:58&quot;, Already Played=list Already Played</quickFilters>
+		<colorRules>green=&quot;Loaded On = 1&quot;, green=&quot;Loaded On = 2&quot;, #333333=&quot;Already Played = 1&quot;, white=&quot;Key Difference = 0&quot;, #BBBBBB=&quot;Key Difference = 1&quot;, darkyellow=&quot;In SearchDB = 0&quot;, #777777=Key Difference &gt; 1</colorRules>
+		<user1FieldName modified="yes">Content</user1FieldName>
+		<user2FieldName modified="yes">Situation</user2FieldName>
+		<favoriteGenres />
+		<favoriteTags1>Sax</favoriteTags1>
+		<favoriteTags2 modified="yes" />
+		<rekordboxFolder modified="yes">D:\PIONEER</rekordboxFolder>
+		<chartsCountry />
+	</browser>
+	<tags>
+		<getTagsAuto modified="yes">yes</getTagsAuto>
+		<setTagsAuto modified="yes">yes</setTagsAuto>
+		<coverDownload>exact</coverDownload>
+		<getTitleFromTags modified="yes">yes</getTitleFromTags>
+		<getRatingFromTags modified="yes">yes</getRatingFromTags>
+		<getCommentFromTags>yes</getCommentFromTags>
+		<getCuesFromTags modified="yes">for new files</getCuesFromTags>
+		<getTagFromZip>yes</getTagFromZip>
+		<getRemixWhenParsingFilenames modified="yes">no</getRemixWhenParsingFilenames>
+		<useKeyFromTag modified="yes">yes</useKeyFromTag>
+		<cleanTagsInDeckDisplay modified="yes">no</cleanTagsInDeckDisplay>
+	</tags>
+	<automix>
+		<automixMode modified="yes">skip silence</automixMode>
+		<fadeLength modified="yes">16.0</fadeLength>
+		<automixRepeat>no</automixRepeat>
+		<automixAutoRemovePlayed modified="yes">always</automixAutoRemovePlayed>
+		<automixDualDeck modified="yes">yes</automixDualDeck>
+		<autoMixBeatMatchOnFade>yes</autoMixBeatMatchOnFade>
+		<automixSkipLength modified="yes">16.0</automixSkipLength>
+		<automixMaxLength modified="yes">600</automixMaxLength>
+		<automixDoubleClick>mix now</automixDoubleClick>
+	</automix>
+	<internet>
+		<internetProxyURL />
+		<internetProxyPort />
+		<internetProxyUsername />
+		<internetProxyPassword />
+		<internetLogin modified="yes">adam@adamlove.com.au</internetLogin>
+		<stayLoggedIn modified="yes">yes</stayLoggedIn>
+		<dontLogin>no</dontLogin>
+		<oneTimeMsg>0</oneTimeMsg>
+		<checkUpdates>yes</checkUpdates>
+		<earlyAccessUpdates modified="yes">yes</earlyAccessUpdates>
+		<sendHistory>yes</sendHistory>
+		<sendAnonymousStats>yes</sendAnonymousStats>
+		<autoRefreshDRM>yes</autoRefreshDRM>
+		<liveFeedback modified="yes">yes</liveFeedback>
+		<usageStats>Use: CU-Soundcloud, Use: CU-Tidal</usageStats>
+		<netsearchVideoQuality>hd720</netsearchVideoQuality>
+		<netsearchAudioQuality>high</netsearchAudioQuality>
+		<xiamiLogin />
+		<deezerAccessCode />
+		<deezerLoginStatus>0</deezerLoginStatus>
+		<soundcloudRefreshCode modified="yes">KMy6FJaA5LoWHwPyZPJScw69IxEaPfQH</soundcloudRefreshCode>
+		<soundcloudAccessCode2 modified="yes">S057OUpPZ0g9VXliVIReiGphXGZ3jExQYZFffGyDb2eO/AoAAA==</soundcloudAccessCode2>
+		<tidalRefreshCode modified="yes">eyJraWQiOiJoUzFKYTdVMCIsImFsZyI6IkVTNTEyIn0.eyJ0eXBlIjoibzJfcmVmcmVzaCIsInVpZCI6MTc5MzA1OTUzLCJzY29wZSI6InJfdXNyIHdfdXNyIiwiY2lkIjozMjQwLCJzVmVyIjowLCJnVmVyIjowLCJpc3MiOiJodHRwczovL2F1dGgudGlkYWwuY29tL3YxIn0.AUHTRbnpxFlq6GCgKIJ1Fqe0CnGlq9y9J9EeGayBv9i92pJyx46olREMWW9ick63DocYBCe09zUJJ5V6zEGcXcnlAcpbmXPSBs2mSRKxPIXVP56axdRjEqPB23qTMb7Kry4LGWnlORrm3iS59PhAmQh_J4_LBV65GM0tOPyffNaXL-9C</tidalRefreshCode>
+		<iRemote>no</iRemote>
+		<iRemoteList />
+		<iRemoteDefaultPort>4243</iRemoteDefaultPort>
+		<vdjRemoteDevices />
+		<os2l>auto</os2l>
+		<os2lDirectIp />
+		<askTheDJMonitoring>folder</askTheDJMonitoring>
+		<askTheDJFrequency>5</askTheDJFrequency>
+		<askTheDJTwitterHashtag />
+		<liveFeedbackExperimental>no</liveFeedbackExperimental>
+	</internet>
+	<record>
+		<recordFile modified="yes">D:\VirtualDJ Recordings\DJ Adam Love - %date %time %venue.mp3</recordFile>
+		<recordFormat modified="yes">mp3</recordFormat>
+		<recordQuality modified="yes">high</recordQuality>
+		<recordAutoStart modified="yes">yes</recordAutoStart>
+		<recordWaitForSound>yes</recordWaitForSound>
+		<recordOverwrite modified="yes">ask</recordOverwrite>
+		<recordAutoSplit>no</recordAutoSplit>
+		<recordWriteCueFile modified="yes">yes</recordWriteCueFile>
+		<recordVideoResolution>1280x720</recordVideoResolution>
+		<recordMicrophone modified="yes">yes</recordMicrophone>
+		<recordBitDepth>16-bit</recordBitDepth>
+		<recordVideoFps>30</recordVideoFps>
+		<recordVideoHardwareAcceleration>Automatic</recordVideoHardwareAcceleration>
+	</record>
+	<broadcast>
+		<broadcastMode>direct</broadcastMode>
+		<broadcastVideoQuality>mid</broadcastVideoQuality>
+		<broadcastVideoQualityCustom />
+		<broadcastServers>
+			<server name="default" protocol="1" format="1" bitrate="128" />
+		</broadcastServers>
+		<broadcastServer>default</broadcastServer>
+		<broadcastDirectFormat>mp3</broadcastDirectFormat>
+		<broadcastDirectPort>8000</broadcastDirectPort>
+		<broadcastDirectQuality>medium</broadcastDirectQuality>
+		<broadcastDirectMaxClients>64</broadcastDirectMaxClients>
+		<broadcastDirectName />
+		<broadcastSongInfo>yes</broadcastSongInfo>
+		<broadcastSongInfoFormat>%artist - %titleremix</broadcastSongInfoFormat>
+		<podcastName>My VirtualDJ Mix</podcastName>
+		<broadcastVideoProvider>0</broadcastVideoProvider>
+		<broadcastVideoURL />
+		<broadcastVideoKey />
+	</broadcast>
+	<options>
+		<language>English</language>
+		<loadSecurity>on</loadSecurity>
+		<endOfSongWarning>30</endOfSongWarning>
+		<autoDiscMarker>no</autoDiscMarker>
+		<sandboxSplitHeadphones>yes</sandboxSplitHeadphones>
+		<sandboxPreviewOnly>no</sandboxPreviewOnly>
+		<VDJScriptGlobalVariables>$colorscheme=0=3.00000, $4decks=0=0.00000, $decklayout=0=1.00000, $waveformpos=0=0.00000, $phrasecircle=0=1.00000, $4waveforms=0=0.00000, $spinner=1=2.00000, $4mixer=0=1.00000, $cfassign=0=0.00000, $DDJRRMDemoMode=0=0.00000, $DDJRRfaderstart=0=0.00000, $DDJRRCFReverse=0=0.00000, $DDJRRMicPeakLimit=0=0.00000, $DDJRRBoothPeakLimit=0=0.00000, $DDJRRMBoothStereo=0=0.00000, $DDJRRMicMaxLevel=0=0.00000, $DDJRRJogLedMode=1=0.00000, $jogtype=1818584692=0.00000, $jogcoverart=1818584692=0.00000, $day20=0=0.00000, $4decks20=0=0.00000, $variation20=0=0.00000, $icons20=0=0.00000, $colormode20=0=0.00000, $padhighlight20=0=0.00000, $songposplay20=0=0.00000, $gridcolor20=0=0.00000, $wavecolor20=0=0.00000, $vuoptic20=0=0.00000, $vucolor20=0=0.00000, $fadervariation20=0=0.00000, $gridcolorgrey20=0=0.00000, $wavebackground20=0=0.00000, $text+20=0=2.00000, $knobview20=0=0.00000, $knobefxvalue20=0=0.00000, $bordersize20=0=0.00000, $jogoptic20=0=0.00000, $cuenumber20=0=0.00000, $cuenumbercolor20=0=0.00000, $showcenter20=0=0.00000, $topbrowser20=0=0.00000, $wavevariation20=0=2.00000, $deck20=0=0.00000, $32beats20=0=0.00000, $centerbutton20=0=0.00000, $wavesize20=0=0.00000, $wavetype20=0=0.00000, $browserarea20=0=0.00000, $prelisten20=0=1.00000, $custombar20=0=0.00000, $prelistenlock20=0=0.00000, $topzonemstvol20=0=0.00000, $topzonemaster20=0=0.00000, $topzonemstefx20=0=0.00000, $topzonewavezoom20=0=0.00000, $zoomdimm20=0=0.00000, $wavedimmvalue20=0=0.00000, $wavedimmall20=0=0.00000, $wavedimm20=0=0.00000, $topzoneevent20=0=0.00000, $eventstem20=0=1.00000, $topzonebar20=0=0.00000, $beatcounter20=0=1.00000, $topzonesand20=0=0.00000, $sandramp20=0=0.00000, $topzonebrowser20=0=0.00000, $topzoneqt20=0=0.00000, $topzonerec20=0=0.00000, $recbcast20=0=0.00000, $topzoneuser20=0=0.00000, $counter20=0=0.00000, $topzonebat20=0=0.00000, $power20=0=0.00000, $topzonecpu20=0=0.00000, $deckbordersel20=1=4.00000, $cover20=1=0.00000, $mixer20=1=0.00000, $infoscroll20=1=0.00000, $titlecolor20=1=0.00000, $songready20=1=1.00000, $authorcolor20=1=1.00000, $cbgadjust20=1=1.00000, $songinfoborder20=1=0.00000, $comment20=1=0.00000, $tapunload20=1=1.00000, $songposfull20=1=0.00000, $cueline20=1=0.00000, $songposline20=1=0.00000, $songposblink20=1=1.00000, $jogvid20=1=0.00000, $efxpad20=1=0.00000, $efxwave20=1=1.00000, $cuejumpefx20=1=1.00000, $cuepad20=1=0.00000, $padbutton20=1=1.00000, $padcolor20=1=0.00000, $cuecustom20=1=1.00000, $cueloop20=1=1.00000, %cueaction20=1=1.00000, $cuecolor20=1=0.00000, $cueactionshow20=1=0.00000, $hide20=1=0.00000, %cuejumppage20=1=0.00000, $loopfilter20=1=0.00000, $songcontrol20=1=0.00000, $platter20=1=0.00000, $joglogo20=1=0.00000, $scratch20=1=0.00000, $jogloop20=1=0.00000, $time20=1=1.00000, $infotext20=1=0.00000, %cueaction20=2=0.00000, %cuejumppage20=2=0.00000, $hidecenter20=0=0.00000, $crossfx20=0=0.00000, $wavehalf20=1=0.00000, $gridpos20=1=0.00000, $wave20=1=0.00000, $waveovelay20=1=0.00000, $browsertoolbar20=0=0.00000, $prelisten220=0=0.00000, $profile1=0=0.00000, $profile1_1=0=0.00000, $profile2=0=0.00000, $profile2_1=0=0.00000, $profile3=0=0.00000, $profile3_1=0=0.00000, $customrow20=0=0.00000, $cbbarknobs20=0=0.00000, $32beatshight20=0=0.00000, $jogvinyl20=0=0.00000, $jogslip20=0=0.00000, $customnocenter20=0=0.00000, $masterefx20=0=1.00000, $wavebar20=0=0.00000, $wavebar220=0=0.00000, $wavebarpos20=0=0.00000, $splitwavevertical20=0=0.00000, $prelistenoptic20=0=0.00000, $wavesort20=0=0.00000, $wavesortauto20=3=0.00000, $verticalinfo20=0=0.00000, $deckborder20=0=0.00000, $jogsync20=0=0.00000, $cuesubmission20=0=0.00000, $browserfont20=0=0.00000, $verticalsmallmirror20=0=0.00000, $pitchvolume20=0=0.00000, %cuejumppage20=3=0.00000, %cueaction20=3=0.00000, %cuejumppage20=4=0.00000, %cueaction20=4=0.00000, $colorschemevanced=0=0.00000, $vanceddaylightcolor=0=0.00000, $vancedcolorsheme=0=0.00000, $vancedskinlayout=0=0.00000, $vancedcrossfaderrack=0=1.00000, $vancedfxrack=0=0.00000, $vancedvideorack=0=0.00000, $vancedwavesize=0=0.00000, $vancedmainbackoff=0=0.00000, $vancedmixerrack=0=1.00000, $vancedbeatkeeper=0=0.00000, $vancedautozoom=0=0.00000, $vancedwavegridcol=1818584692=0.00000, $vancedwaveback=1818584692=0.00000, $vancedwavebarcounter=1818584692=0.00000, $vancedwaveview=1818584692=0.00000, vancedinfoview=0=0.00000, $traktorinfoline1a=1818584692=0.00000, $traktorinfoline2a=1818584692=0.00000, $traktorinfoline3a=1818584692=0.00000, $Beat_Marker=1818584692=0.00000, $vancedpadstyle=1818584692=0.00000, vancedtcbtnsview=0=0.00000, $vancedtranscol=1818584692=0.00000, $vancedjoglayout=1818584692=0.00000, $vancedlevelfaderview=1818584692=0.00000, $vanceddeckbordercol=1818584692=0.00000, vancedinfoview=1=0.00000, vancedtcbtnsview=1=0.00000, vancedinfoview=2=0.00000, vancedtcbtnsview=2=0.00000, vancedinfoview=3=0.00000, vancedtcbtnsview=3=0.00000, $talkover=0=0.00000, vancedvideolinkondrop=0=0.00000, vancedvideolinkondrop=1=0.00000, $vancedextraFXL=1818584692=0.00000, $vancedextraFXR=1919510376=0.00000</VDJScriptGlobalVariables>
+		<crashGuard>yes</crashGuard>
+		<crashReportLevel>0</crashReportLevel>
+		<poiEditorShowAll modified="yes">yes</poiEditorShowAll>
+		<poiEditorSnap modified="yes">yes</poiEditorSnap>
+		<database>1661050812</database>
+		<lastUsedBuild>7584</lastUsedBuild>
+		<lastUse modified="yes">1687666653</lastUse>
+		<timestamp>677590733</timestamp>
+		<nonColoredPoi>Default</nonColoredPoi>
+		<colorPicker>auto</colorPicker>
+		<colorPickersystemCustom />
+		<lightShowProgram>Auto</lightShowProgram>
+		<settingPage modified="yes">Record</settingPage>
+		<showTutorials modified="yes">no</showTutorials>
+		<shopDemoMode>no</shopDemoMode>
+		<dontShowAgain modified="yes">AutoSmartKey, backLoop, videoskin, cdjExportStems, pads, eqMode1, CDJ2000-detected, CDJ900-detected, eqMode3, eqMode, CDJ3000-detected, SmartKeyTooBig, eqMode4, CDJ2000NEXUS-detected, eqMode5, CDJ2000NXS2-detected</dontShowAgain>
+		<autoUpdateFailedCount modified="yes">0</autoUpdateFailedCount>
+		<autoUpdateFailedSvn>0</autoUpdateFailedSvn>
+		<autoUpdateFailedTime />
+		<showTipOfTheDay modified="yes">no</showTipOfTheDay>
+		<tipOfTheDayAlreadySeen>7, 3, 4, 16, 26, 35, 43, 39, 41, 40, 15, 42, 27, 14, 33, 38, 36, 6, 18, 9, 13, 34, 5</tipOfTheDayAlreadySeen>
+		<skinStarterTip>19225</skinStarterTip>
+		<limitedEdition modified="yes">no</limitedEdition>
+		<startOfDayHour>8</startOfDayHour>
+		<eventSchedule />
+		<automaticDatabaseBackupPeriod modified="yes">1</automaticDatabaseBackupPeriod>
+		<databaseBackupLast modified="yes">1687666662</databaseBackupLast>
+		<databaseBackupLocation modified="yes">D:\VirtualDJ\Backup</databaseBackupLocation>
+		<vstFxFolder />
+		<watchFolders modified="yes">D:\Music</watchFolders>
+	</options>
+	<performance>
+		<mathEngine>CPU</mathEngine>
+		<mathEnginePriority>Automatic</mathEnginePriority>
+		<mathEngineNbThreadsOffset>0</mathEngineNbThreadsOffset>
+		<precomputeStems modified="yes">Create manually</precomputeStems>
+		<skinFPS>30</skinFPS>
+		<sampleRate>48000</sampleRate>
+		<latency modified="yes">256</latency>
+		<ultraLatency modified="yes">no</ultraLatency>
+		<maxPreloadLength modified="yes">15</maxPreloadLength>
+		<maxStemLength modified="yes">12</maxStemLength>
+		<pitchQuality modified="yes">4</pitchQuality>
+		<scratchFilterQuality modified="yes">12</scratchFilterQuality>
+		<songLoadPriority>normal</songLoadPriority>
+		<experimentalBeatAnalyzer modified="yes">yes</experimentalBeatAnalyzer>
+		<experimentalSkinEngine modified="yes">yes</experimentalSkinEngine>
+		<useLowPowerGPU modified="yes">High Power</useLowPowerGPU>
+		<experimentalWaveColors modified="yes">yes</experimentalWaveColors>
+		<safeVideoDecode>no</safeVideoDecode>
+		<analyzeSongsOnView modified="yes">no</analyzeSongsOnView>
+		<keepBPMonAnalyzerUpdate>no</keepBPMonAnalyzerUpdate>
+		<peakAudioCpu modified="yes">0.0</peakAudioCpu>
+		<peakAudioCpuStems>0.0</peakAudioCpuStems>
+		<stemsRealtimeSeparation modified="yes">On-Demand</stemsRealtimeSeparation>
+		<stemsSavedStems modified="yes">Manual</stemsSavedStems>
+		<stemsAllowReducedQuality modified="yes">Ask</stemsAllowReducedQuality>
+		<stemsFix modified="yes">Lower priority</stemsFix>
+		<stemsFixExtra />
+		<stemsHwcap modified="yes">1</stemsHwcap>
+		<skinUseLowPowerGPU modified="yes">Default</skinUseLowPowerGPU>
+		<stemsSavedFolder modified="yes">D:\VirtualDJ\Stems</stemsSavedFolder>
+		<stemsSpeed>221, 3264</stemsSpeed>
+		<stemsGPU>Automatic</stemsGPU>
+	</performance>
+</settings>
